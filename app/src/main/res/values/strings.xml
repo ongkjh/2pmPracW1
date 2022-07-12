@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">2pmPracW1</string>
+    <string name="numbText">Roll Dice</string>
+    <string name="rollButton">Roll</string>
+    <string name="rules">The basic premise of the game is this:
+        \n\nyou roll six dice. Some combinations of dice will
+        \n\nscore points, while others don’t. You take out the
+        \n\ndice that have scored points and then decide whether to
+        \n\nkeep that score, or re-roll the remaining dice to try to
+        \n\nscore more points. But if you roll again and don’t score
+        \n\npoints, you lose what you’ve earned so far. So the game
+        \n\nmoves quickly and there’s an element of risk that makes
+        \n\nit really fun to play.</string>
+    <string name="playerName">Enter your name</string>
+    <string name="updateButton">Update</string>
+</resources>
