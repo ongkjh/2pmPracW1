@@ -13,4 +13,5 @@
         \n\nit really fun to play.</string>
     <string name="playerName">Enter your name</string>
     <string name="updateButton">Update</string>
+    <string name="player_1">Player 1</string>
 </resources>
